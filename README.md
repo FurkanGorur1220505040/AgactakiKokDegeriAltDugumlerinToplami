@@ -1,5 +1,5 @@
 # AgactakiKokDegeriAltDugumlerinToplami
- Kök değererinin çocuk degerlere eşit olup olmadıgına bakılır , yaratıcı tarafından verilen değerlere göre kök deger çocuk degerlere eşittir.
+ Kök değerinin çocuk degerlere eşit olup olmadıgına bakılır , yaratıcı tarafından verilen değerlere göre kök deger çocuk degerlere eşittir.
 Kodun Anlatışı //
 En başta struct olarak agaç kök degeri , yavru degerler için pointerlere tanımladık
 Kök için bellekte yer ayırıp , yer ayırdığımız yere değer atadık 
